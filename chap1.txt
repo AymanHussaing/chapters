@@ -1,1 +1,3 @@
 I am in Chapter 1.
+I am Gonna Study MERN stack 
+Git Is Interesting
